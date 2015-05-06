@@ -10,5 +10,6 @@
   "hubot-shipit",
   "hubot-youtube",
   "hubot-dogeme",
-  "hubot-newbot"
+  "hubot-newbot",
+  "hubot-parsebot"
 ]
