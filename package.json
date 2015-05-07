@@ -27,7 +27,7 @@
     "hubot-hipchat": "^2.7.5",
     "hubot-maps": "0.0.2",
     "hubot-newbot": "^0.2.0",
-    "hubot-parsebot": "^1.0.1",
+    "hubot-parsebot": "^1.1.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
