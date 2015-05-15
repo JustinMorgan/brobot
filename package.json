@@ -17,6 +17,7 @@
   "dependencies": {
     "htmlparser": "^1.7.7",
     "hubot": "^2.11.4",
+    "hubot-business-cat": "^1.1.19",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
     "hubot-google-images": "^0.1.4",
@@ -30,6 +31,7 @@
     "hubot-parsebot": "^1.1.0",
     "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.2",
+    "hubot-retro": "^1.0.4",
     "hubot-rules": "^0.1.0",
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.2",
